@@ -13,7 +13,7 @@ A collection of plugins that generate audio signals using emergent behaviour alg
 
 Clone the project:
 
-    git clone https://ethancrawford/supercollider-plugins
+    git clone https://github.com/ethancrawford/supercollider-plugins
     cd supercollider-plugins
     mkdir build
     cd build
